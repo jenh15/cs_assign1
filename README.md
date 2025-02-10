@@ -5,4 +5,4 @@ This is the readme file for the first assignment.
 I do not have a pet (I am more of a cat person myself), but I added an image of a cute dog.
 
 ### Dog Picture
-![alt text](https://animalcarecentersmyrna.com/wp-content/uploads/2021/08/Untitled-design-2021-08-19T162152.857.png)
+![alt text](dog.png)
